@@ -1,0 +1,16 @@
+/* style.css */
+body{
+  background: rgb(245,245,245);
+}
+h6{
+  font-family: Courier;
+  color: red;
+  font-weight: lighter;
+  font-size: 10px;
+}
+h3 {
+  font-family: Courier;
+  color: pink;
+  font-weight: lighter;
+  font-size: 8px;
+}
